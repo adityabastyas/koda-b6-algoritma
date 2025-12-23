@@ -5,10 +5,10 @@ flowchart TD
     C@{ shape: diamond, label: "r % 7 == 0" }
     D@{ shape: rect, label: "π = 22/7" }
     E@{ shape: rect, label: "π = 3.14" }
-    F@{ shape: rect, label: "Luas Lingkaran = π * r * r" }
-    G@{ shape: lean-r, label: "Output : Luas Lingkaran" }
-    H@{ shape: rect, label: "Keliling Lingkaran = 2 * π * r" }
-    I@{ shape: lean-r, label: "Output : Keliling Lingkaran" }
+    F@{ shape: rect, label: "luasLingkaran = π * r * r" }
+    G@{ shape: lean-r, label: "Output : luasLingkaran " }
+    H@{ shape: rect, label: "kelilingLingkaran = 2 * π * r" }
+    I@{ shape: lean-r, label: "Output :  kelilingLingkaran" }
      J@{ shape: dbl-circ, label: "Selesai" }
 
 
