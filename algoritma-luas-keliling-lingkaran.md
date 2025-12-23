@@ -20,8 +20,11 @@ Keterangan:
 ## Langkah-Langkah Algoritma
 
 1. Mulai
-2. Masukkan nilai jari-jari lingkaran
-3. Hitung luas lingkaran menggunakan rumus phi dikali jari-jari dikali jari-jari
-4. Hitung keliling lingkaran menggunakan rumus 2 dikali phi dikali jari-jari
-5. Tampilkan hasil luas dan keliling lingkaran
-6. Selesai
+2. Masukkan sebuah angka sebagai jari-jari lingkaran
+3. Jika jari-jari habis di bagi 7, maka gunakan "phi" sebagai 22/7
+4. jika jari-jari tidak habis di bagi 7, maka gunakan phi sebagi 3.14
+5. Hitung luas lingkaran menggunakan rumus phi dikali jari-jari dikali jari-jari
+6. Tampilkan hasil hitung luas
+7. Hitung keliling lingkaran menggunakan rumus 2 dikali phi dikali jari-jari
+8. Tampilkan hasil hitung keliling lingkaran
+9. Selesai
