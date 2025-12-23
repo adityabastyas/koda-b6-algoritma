@@ -1,6 +1,6 @@
-#algortma memindahkan air teh dan kopi
+# Algortma Memindahkan Air Teh dan Kopi
 
-##Membuat algoritma memnindahkan air di dalam gelas, terdapat gambar gelas a berisi teh, gelas b berisi kopi
+## Membuat algoritma memindahkan air di dalam gelas, terdapat gambar gelas a berisi teh, gelas b berisi kopi
 
 1. Mulai
 2. siapkan 1 gelas kosong berukuran sama bernama gelas C
@@ -11,3 +11,4 @@
 7. pindahkan isi dari gelas C kedalam gelas B yang sudah kosong
 8. gelas A dan B sudah tertukar isinya
 9. Selesai
+
