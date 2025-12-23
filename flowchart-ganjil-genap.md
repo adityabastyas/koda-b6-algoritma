@@ -2,11 +2,11 @@
 
 flowchart TD
     A@{ shape: circle, label: "Mulai" }
-    B@{ shape: lean-r, label: "Masukkan = X" }
+    B@{ shape: lean-r, label: "Input : X" }
     C@{ shape: diamond, label: "X % 2 == 0 ?" }
-    D@{ shape: rect, label: "Bilangan Genap" }
-    E@{ shape: rect, label: "Bilangan Ganjil" }
-    F@{ shape: circle, label: "Selesai" }
+    D@{ shape: lean-r, label: 'Output : "Bilangan Genap"' }
+    E@{ shape: lean-r, label: 'Output : "Bilangan Ganjil"' }
+    F@{ shape: dbl-circ, label: "Selesai" }
 
     A --> B
     B --> C
