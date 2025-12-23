@@ -15,9 +15,9 @@ Tujuan:
 
 1. Mulai
 2. siapkan 1 gelas kosong berukuran sama bernama gelas C
-3. pindahkan gelas A berisi teh kedalam gelas C yang kosong tersebut
+3. pindahkan gelas A yang berisi teh kedalam gelas C
 4. cuci gelas A dan keringkan
-5. pindahkan isi dari gelas B ke dalam gelas yang sudah kosong
+5. pindahkan isi dari gelas B ke dalam gelas A yang sudah kosong
 6. cuci gelas B dan keringkan
 7. pindahkan isi dari gelas C kedalam gelas B yang sudah kosong
 8. gelas A dan B sudah tertukar isinya
