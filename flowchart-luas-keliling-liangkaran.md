@@ -1,7 +1,7 @@
 ```mermaid
 flowchart TD
     A@{ shape: circle, label: "Mulai" }
-    B@{ shape: lean-r, label: "Input : r , π" }
+    B@{ shape: lean-r, label: "Input : r" }
     C@{ shape: diamond, label: "r % 7 == 0" }
     D@{ shape: rect, label: "π = 22/7" }
     E@{ shape: rect, label: "π = 3.14" }
