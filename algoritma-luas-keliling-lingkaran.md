@@ -21,7 +21,7 @@ Keterangan:
 
 1. Mulai
 2. Masukkan nilai jari-jari lingkaran
-3. Hitung luas lingkaran menggunakan rumus π x r x r
-4. Hitung keliling lingkaran menggunakan rumus 2 x π x r
+3. Hitung luas lingkaran menggunakan rumus phi dikali jari-jari dikali jari-jari
+4. Hitung keliling lingkaran menggunakan rumus 2 dikali phi dikali jari-jari
 5. Tampilkan hasil luas dan keliling lingkaran
 6. Selesai
